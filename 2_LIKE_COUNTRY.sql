@@ -1,0 +1,3 @@
+SELECT country FROM country
+WHERE country LIKE '_____n'
+--country tablosunda bulunan country sütunundaki ülke isimlerinden en az 6 karakterden oluşan ve sonu 'n' karakteri ile sonlananları sıralayınız.
